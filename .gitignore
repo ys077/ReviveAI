@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 server/data/paysim.ndjson
+public/data/paysim.csv
 
 # Editor directories and files
 .vscode/*
